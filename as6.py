@@ -3,7 +3,7 @@ import math
 
 
 # Input: the lists of prior probabilities, likelihood, and test data
-# Output: list of corresponding posterior probabilities
+# Output: list of corresponding posterior probabilitiesh
 #
 
 def posteriorFunc(priorProb, likhd, data):
